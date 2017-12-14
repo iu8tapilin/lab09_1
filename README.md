@@ -1,3 +1,4 @@
+https://api.travis-ci.org/iu8tapilin/Lab05.svg?branch=master
 ## Laboratory work IV
 
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
